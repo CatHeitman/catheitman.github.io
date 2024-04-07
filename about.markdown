@@ -18,6 +18,7 @@ Her experience includes corporate consulting and executive positions in multiple
 - Stakeholder relations
 - Media relations
 
+### Past clients
 In her media relations work throughout her career, Heitman has engaged with reporters at numerous media organizations, including:
 
 - The Advocate
