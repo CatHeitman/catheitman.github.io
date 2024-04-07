@@ -23,6 +23,16 @@ $link: #6385a0;
   color: $primary-color;
 }
 
+ul {
+  list-style: square !important;
+  margin-left: 2rem !important;
+}
+
+li {
+  margin-top: 0.2rem !important;
+  margin-bottom: 0.2rem !important;
+}
+
 .material-symbols-sharp {
     font-variation-settings:
     'FILL' 0,
