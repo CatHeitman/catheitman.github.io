@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![Headshot of Catherine Heitman](/assets/headshot.png)
+![Headshot of Catherine Heitman](https://heit.mn/heitmancomm.com/assets/headshot.png)
 
 ## About Catherine
 
