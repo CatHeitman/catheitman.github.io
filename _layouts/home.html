@@ -6,7 +6,34 @@ layout: default
   <!-- {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} -->
-  {{ content }}
+
+  <div class="flex flex-col md:flex-row lg:w-3/4 xl:w-[48rem] mx-auto">
+    <div id="sidebar" class="px-4 md:py-20">
+      <h1 id="heading-text" class="font-serif text-3xl font-extrabold w-64">
+        Heitman Communications
+      </h1>
+
+      <div id="links" class="my-8 flex flex-column space-y-2">
+        <a href="#about-catherine">ABOUT CATHERINE</a>
+        <a href="#contact">CONTACT</a>
+      </div>
+    </div>
+
+    <div id="content" class="mx-12 md:mx-4 xl:mx-auto">{{ content }}</div>
+  </div>
+
+  <style>
+    img {
+      max-height: 16rem;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    p {
+      margin-bottom: 1rem;
+      margin-top: 1rem;
+    }
+  </style>
 
   <!-- {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>

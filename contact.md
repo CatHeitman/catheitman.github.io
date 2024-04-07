@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-Email: [danny@dannyheitman.com](danny@dannyheitman.com)
+Email: [catherine@heitmancomm.com](catherine@heitmancomm.com)
 
-Twitter: [@Danny_Heitman](https://twitter.com/Danny_Heitman)
+<!-- Twitter: [@Danny_Heitman](https://twitter.com/Danny_Heitman) -->
 
-Facebook: [Danny Heitman](https://www.facebook.com/danny.heitman.16)
+<!-- Facebook: [Danny Heitman](https://www.facebook.com/danny.heitman.16) -->

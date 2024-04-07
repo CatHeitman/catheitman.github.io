@@ -3,32 +3,34 @@ layout: home
 title: Home
 ---
 
-### [*The Baton Rouge Advocate* columns](https://www.theadvocate.com/baton_rouge/entertainment_life/danny_heitman/)
-### [Phi Kappa Phi's *Forum* Magazine](https://www.phikappaphi.org/publications/phi-kappa-phi-forum/forum-archive)
+![Headshot of Catherine Heitman](assets/headshot.png)
 
----
+## About Catherine
 
-## Recent work
-[All](/posts/all), [General](/posts/general), [Nature](/posts/nature), [Reading and literature](/posts/reading-and-literature)
+Catherine Soileau Heitman is a communications strategist with more
+than three decades of executive-level experience in issues and
+reputational management, government agency transformation, and
+disaster and crisis response. She has worked in journalism and held
+posts at multiple agencies at the state and federal level — as a
+Congressional aide in Washington and in Louisiana.
 
-{% for post in site.posts %}
-  
-  {% if post.external_url %}
-  <h3>
-    <a href="{{post.external_url}}">{{ post.title }} ({{post.external_site}})</a>
-  </h3>
-  {% else %}
-    <a href="{{post.url}}">{{ post.title }}</a>
-  {% endif %}
-  {{ post.subtitle }}
-  *{{ post.date | date: "%B %Y" }}*
-  <br/><br/>
-{% endfor %}
+Her experience includes corporate consulting and executive positions
+in multiple state agencies, developing and implementing public
+awareness and engagement campaigns around some of society’s most
+pressing issues: human services, food insecurity, pre-K to 12 and
+higher education policy, child welfare, and disaster response and
+recovery.
 
----
-## Books
-### [*A Summer of Birds* >>](https://lsupress.org/books/detail/a-summer-of-birds-paperback/)
-Over the summer of 1821, a cash-strapped John James Audubon worked as a tutor at Oakley Plantation in Louisiana’s rural West Feliciana Parish. This move initiated a profound change in direction for the struggling artist. Oakley’s woods teemed with life, galvanizing Audubon to undertake one of the most extraordinary endeavors in the annals of art: a comprehensive pictorial record of America’s birds. That summer, Audubon began what would eventually become his four-volume opus, Birds of America.
+Her disaster communication experience began with hurricanes Katrina
+and Rita and continued years later with Louisiana's innovative
+sheltering and food assistance operations following the compound
+disaster of the COVID-19 pandemic and a punishing string of major
+hurricanes (Laura, Delta, Zeta and Ida). The response and targeted
+digital communication strategies Heitman helped develop have served as
+national models.
 
-In *A Summer of Birds*, Danny Heitman recounts the season that shaped Audubon’s destiny, sorting facts from romance to give an intimate view of the world’s most famous bird artist. A new preface marks the two-­hundredth anniversary of that eventful interlude, reflecting on Audubon’s enduring legacy among artists, aesthetes, and nature lovers in Louisiana and around the world.
+## Contact
 
+<i class="bi bi-envelope"></i> [catherine@heitmancomm.com](catherine@heitmancomm.com)
+
+<i class="bi bi-linkedin"></i> [/catherineheitman](https://www.linkedin.com/in/catherineheitman/)
