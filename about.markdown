@@ -6,7 +6,7 @@ permalink: /catherine
 
 ![Headshot of Catherine Heitman](https://heit.mn/heitmancomm.com/assets/headshot.png)
 
-## About Catherine
+# About Catherine
 
 Catherine Soileau Heitman is a public relations consultant with more than three decades of executive-level experience in issues and reputation management, government agency transformation, and disaster and crisis response.
 
@@ -17,6 +17,8 @@ Her experience includes corporate consulting and executive positions in multiple
 - Digital communications and social media
 - Stakeholder relations
 - Media relations
+- Voiceover
+- Writing 
 
 ### Past work
 In her media relations work throughout her career, Heitman has engaged with reporters at numerous media organizations, including:
