@@ -24,7 +24,7 @@ Catherine has helped guide the communication efforts of organizations that inclu
 
 # Media Relations
 
-In her media relations work throughout her career, Catherine has engaged with journalists at local, state, national and international news media organizations. The long list of outlets includes The Associated Press, The Times-Picayune, The Advocate (Baton Rouge, LA), The Wall Street Journal, The New York Times, Reuters, CBS News, CNN and many others. 
+Catherine has engaged with journalists at local, state, national and international news media organizations. The long list of outlets includes The Associated Press, The Times-Picayune, The Advocate (Baton Rouge, LA), The Wall Street Journal, The New York Times, Reuters, CBS News, CNN and many others. 
 
 # Disaster and Crisis Communication
 
