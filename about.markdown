@@ -20,9 +20,14 @@ In her experience in corporate consulting and executive positions in multiple st
 - Disaster communication planning 
 
 ## Past work
-In her media relations work throughout her career, Catherine has engaged with journalists at local, state, national and international news media organizations, including the Associated Press, The Times-Picayune, The Advocate (Baton Rouge, LA), The Wall Street Journal, The New York Times, Reuters, CBS News and CNN. 
+#Media Relations
+In her media relations work throughout her career, Catherine has engaged with journalists at local, state, national and international news media organizations. The long list of outlets includes The Associated Press, The Times-Picayune, The Advocate (Baton Rouge, LA), The Wall Street Journal, The New York Times, Reuters, CBS News, CNN and many others. 
 
+#Disaster and Crisis Communication
+Catherine's has disaster communication experience, beginning with hurricanes Katrina and Rita and continued years later with Louisiana's innovative shelter and food aid operations following the compound disaster of the COVID-19 pandemic and a punishing string of major hurricanes (Laura, Delta, Zeta and Ida). The response and targeted digital communication strategies she and her team developed have served as national models and formed the basis of response to incidents involving cybersecurity breaches, wildfire emergencies and other crises. 
 
+#Digital Communication
+Catherine was instrumental in moving her state agency’s communications strategy toward the use of digital solutions to better serve the public. The agency used text communications, updated and innovative internet features and social media campaigns to reach intended audiences and raise awareness of available benefits and services. The approach gained her state agency a national Government Changemaker Award from Code for America.
 
 [See Catherine's full profile here.](https://www.linkedin.com/in/catherineheitman/)
 
