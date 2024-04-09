@@ -32,7 +32,7 @@ Catherine's disaster communication experience began with hurricanes Katrina and 
 
 # Digital Communication
 
-Catherine played a lead role in her state agency’s increased digital communications transition as a way of better serving the public. The agency's effective use of text communications, innovative internet features and social media campaigns provided updates about vital resources available when they were needed most. The approach helped gaine her state agency a national [Government Changemaker Award from Code for America.](https://www.dcfs.louisiana.gov/news/dcfs-awarded-code-for-americas-government-changemaker-award#)
+Catherine played a lead role in her state agency’s increased digital communications transition as a way of better serving the public. The agency's effective use of text communications, innovative internet features and social media campaigns provided updates about vital resources available when they were needed most. The approach helped gain her state agency a national [Government Changemaker Award from Code for America.](https://www.dcfs.louisiana.gov/news/dcfs-awarded-code-for-americas-government-changemaker-award#)
 
 [See Catherine's full profile here.](https://www.linkedin.com/in/catherineheitman/)
 
