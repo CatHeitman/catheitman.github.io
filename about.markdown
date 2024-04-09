@@ -20,11 +20,11 @@ In her experience in corporate consulting and executive positions in multiple st
 - Disaster communication planning 
 
 ## **Past Work**
-Catherine has helped guide the communication efforts of organizations that include: Louisiana Department of Children and Family Services, Louisiana Recovery Authority, University of Louisiana System, Louisiana Department of Education, Louisiana Office of Youth Development (now Office of Juvenile Justice), Louisiana Highway Safety Commission, Louisiana Public Facilities Authority and Community Coffee Company.
+Catherine has helped guide the communication efforts of organizations that include: **Louisiana Department of Children and Family Services, Louisiana Recovery Authority, University of Louisiana System, Louisiana Department of Education, Louisiana Office of Youth Development (now Office of Juvenile Justice), Louisiana Highway Safety Commission, Louisiana Public Facilities Authority** and **Community Coffee Company**.
 
 # Media Relations
 
-Catherine has engaged with journalists at local, state, national and international news media organizations, outlets incuding The Associated Press, The Times-Picayune, The Advocate (Baton Rouge, LA), The Wall Street Journal, The New York Times, Reuters, NBC News, CNN and many others. 
+Catherine has engaged with journalists at local, state, national and international news media organizations, outlets incuding **The Associated Press, The Times-Picayune, The Advocate (Baton Rouge, LA), The Wall Street Journal, The New York Times, Reuters, NBC News, CNN** and many others. 
 
 # Disaster and Crisis Communication
 
