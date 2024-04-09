@@ -6,6 +6,7 @@ layout: default
   <!-- {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} -->
+  <p class="py-4 font-serif text-xl md:text-lg">Heitman Communications</p>
   <h1 class="font-serif text-3xl lg:text-5xl">
     Behind every cause is a story. How the story is told shapes its impact.
     Let’s work together to tell your story.
@@ -13,24 +14,24 @@ layout: default
   <div class="py-8 flex flex-col">
   <div class="flex flex-row">
     <a
-      class="transition ease-in-out hover:scale-110 duration-200"
-      href="https://heit.mn/heitmancomm.com/catherine"
+      class="transition ease-in-out hover:scale-110 duration-200 text-xl md:text-lg"
+      href="/catherine"
       >Meet Catherine</a
     >
   </div>
 
   <div class="flex flex-row">
     <a
-      class="transition ease-in-out hover:scale-110 duration-200"
-      href="https://heit.mn/heitmancomm.com/catherine#past-work"
+      class="transition ease-in-out hover:scale-110 duration-200 text-xl md:text-lg"
+      href="/catherine#past-work"
       >Past work</a
     >
   </div>
 
   <div class="flex flex-row">
     <a
-      class="transition ease-in-out hover:scale-110 duration-200"
-      href="https://heit.mn/heitmancomm.com/catherine#contact"
+      class="transition ease-in-out hover:scale-110 duration-200 text-xl md:text-lg"
+      href="/catherine#contact"
       >Contact</a
     >
   </div>
@@ -45,8 +46,32 @@ layout: default
     }
 
     p {
+      opacity: 0;
+      animation: fadeIn 0.5s ease-out forwards;
       margin-bottom: 1rem;
       margin-top: 1rem;
+      animation-delay: 0.25s;
+
+    }
+
+    h1 {
+      opacity: 0;
+      animation: fadeIn 0.5s ease-out forwards;
+      animation-delay: 0.5s;
+
+    }
+
+    a {
+      opacity: 0;
+      animation: fadeIn 0.5s ease-out forwards;
+      animation-delay: 1s;
+    }
+
+    @keyframes fadeIn{
+      to{
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
   </style>
 
