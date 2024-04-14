@@ -39,6 +39,6 @@ Catherine played a lead role in her state agency’s increased digital communica
 
 ## Contact
 
-<i class="bi bi-envelope"></i> [catherine@heitmancomm.com](catherine@heitmancomm.com)
+<i class="bi bi-envelope"></i> <a href="mailto:catherine@heitmancomm.com"> catherine@heitmancomm.com</a>
 
 <i class="bi bi-linkedin"></i> [/catherineheitman](https://www.linkedin.com/in/catherineheitman/)
