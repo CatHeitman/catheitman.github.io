@@ -19,7 +19,7 @@ Through her experience in executive positions in multiple state agencies and cor
 - Digital Communications and Social Media
 - Crisis and Disaster Communications
 
-## **Past Work**
+## **Experience**
 
 Catherine started her career as a staffer in the **U.S. Senate** and has since helped guide the communication efforts of organizations that include: **Louisiana Department of Children and Family Services, Louisiana Recovery Authority, University of Louisiana System, Louisiana Department of Education, Louisiana Office of Youth Development (now Office of Juvenile Justice), Louisiana Highway Safety Commission, Louisiana Public Facilities Authority** and **Community Coffee Company**.
 
