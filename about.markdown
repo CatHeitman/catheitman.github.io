@@ -10,7 +10,7 @@ permalink: /catherine
 
 Catherine Soileau Heitman is a public relations practitioner with more than three decades of executive-level experience in issues and reputation management, government agency transformation, and disaster and crisis response.
 
-Through her experience in executive positions in multiple state agencies and corporate consulting, Catherine played a key role in driving public awareness and engagement campaigns around some of society’s most pressing issues with strategies that included:
+Through her experience in executive positions in multiple state agencies and corporate consulting, Catherine has played a key role in driving public awareness and engagement campaigns around some of society’s most pressing issues with strategies that included:
 
 - Writing
 - Strategic Communications
@@ -33,7 +33,7 @@ Catherine's disaster communication experience began with hurricanes Katrina and 
 
 ### Digital Communication
 
-Catherine played a lead role in her state agency’s increased digital communications transition as a way of better serving the public. The agency's effective use of targeted text communications, innovative internet features and social media campaigns provided updates about vital resources available when they were needed most. The approach helped gain her state agency a national [Government Changemaker Award from Code for America.](https://www.dcfs.louisiana.gov/news/dcfs-awarded-code-for-americas-government-changemaker-award#)
+Catherine has played a key role in agency digital transformation and the effective communication needed for its success. She helped lead a state agency’s increased used of digital communication as a way of better serving the public. The agency's use of targeted text communications, innovative internet features and social media campaigns provided updates about vital resources when they were needed most. The approach, in part, led to a national [Government Changemaker Award from Code for America.](https://www.dcfs.louisiana.gov/news/dcfs-awarded-code-for-americas-government-changemaker-award#)
 
 [See Catherine's full profile here.](https://www.linkedin.com/in/catherineheitman/)
 
