@@ -13,6 +13,7 @@ Catherine Soileau Heitman is a public relations practitioner with more than thre
 Through her experience in executive positions in multiple state agencies and corporate consulting, Catherine has played a key role in driving public awareness and engagement campaigns around some of society’s most pressing issues with strategies that include:
 
 - Writing
+- Earned Media Campaigns
 - Strategic Communications
 - Media Relations
 - Presentations and Speeches
