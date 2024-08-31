@@ -8,7 +8,7 @@ permalink: /catherine
 
 ## **About Catherine**
 
-Catherine Soileau Heitman is a public relations practitioner with extensive experience in issues and reputation management, government agency transformation, and disaster and crisis response.
+Catherine Soileau Heitman is a public affairs practitioner with extensive experience in issues and reputation management, government agency transformation, and disaster and crisis response.
 
 Through her work in multiple state agencies and corporate consulting, Catherine has played a key role in driving public awareness and engagement campaigns around some of society’s most pressing issues with strategies that include:
 
@@ -43,3 +43,4 @@ Catherine has played a key role in agency digital transformation and the effecti
 <i class="bi bi-envelope"></i> <a href="mailto:catherine@heitmancomm.com"> catherine@heitmancomm.com</a>
 
 <i class="bi bi-linkedin"></i> [/catherineheitman](https://www.linkedin.com/in/catherineheitman/)
+
