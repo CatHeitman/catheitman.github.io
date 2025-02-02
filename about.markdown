@@ -26,7 +26,7 @@ Catherine started her career as a staffer in the **U.S. Senate** and has since h
 
 ### Media Relations
 
-Catherine has engaged with journalists at local, state, national and international news media organizations, incuding **The Associated Press, The Times-Picayune, The Advocate (Baton Rouge, LA), The Wall Street Journal, The New York Times, Reuters, NBC News, CNN** and many others.
+Catherine has engaged with journalists at local, state, national and international news media organizations, including **The Associated Press, The Times-Picayune, The Advocate (Baton Rouge, LA), The Wall Street Journal, The New York Times, Reuters, NBC News, CNN** and many others.
 
 ### Disaster and Crisis Communication
 
